@@ -8,6 +8,6 @@
         <setting name="logImpl" value="LOG4J"/>
     </settings>
     <typeAliases>
-        <package name="com.ssm.maven.core.entity"/>
+        <package name="com.study.blogSys2.core.entity"/>
     </typeAliases>
 </configuration>
